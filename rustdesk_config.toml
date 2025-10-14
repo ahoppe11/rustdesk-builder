@@ -1,0 +1,10 @@
+rendezvous_server = 'nas.hoppejewelers.com:21116'
+nat_type = 1
+serial = 0
+
+[options]
+local-ip-addr = '192.168.2.196'
+access-mode = 'full'
+custom-rendezvous-server = 'nas.hoppejewelers.com'
+key = 'NTfji70CDWNp2B4wQ0jIFwyVsKYejcFtMCRXal2EWCg='
+verification-method = 'use-permanent-password'
